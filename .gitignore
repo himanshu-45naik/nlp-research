@@ -1,1 +1,9 @@
+# Virtual Environment
+.myenv
+
+# Dataset
 names.txt
+input.txt
+
+# Miscellaneous
+.DS_Store
